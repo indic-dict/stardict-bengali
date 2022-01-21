@@ -1,1 +1,3 @@
-https://github.com/indic-dict/stardict-bengali/raw/gh-pages/bn-head/bn-entries/slobs/biswas-bangala__2020-01-05_11-47-54Z__4MB.slob  
+https://github.com/indic-dict/stardict-bengali/raw/gh-pages/bn-head/bn-entries/slobs/bhattacharya__2022-01-21_04-44-52Z__1MB.slob  
+https://github.com/indic-dict/stardict-bengali/raw/gh-pages/bn-head/bn-entries/slobs/biswas-bangala__2022-01-21_04-44-52Z__4MB.slob  
+https://github.com/indic-dict/stardict-bengali/raw/gh-pages/bn-head/bn-entries/slobs/dasa__2022-01-21_04-44-52Z__4MB.slob  
